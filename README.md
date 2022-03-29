@@ -1,2 +1,2 @@
 # colors-generator-
-a simple color generator made with native python
+A simple color generator made with native Python with a graphical interface Which changes its bg-color color according to the chosen color...
